@@ -20,6 +20,7 @@
     <RootNamespace>BottleWebProject1</RootNamespace>
     <InterpreterId>{e50626d4-c893-48eb-92d8-c65a4b96b60e}</InterpreterId>
     <InterpreterVersion>2.7</InterpreterVersion>
+    <NameOfLastUsedPublishProfile>bottle5profile</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
